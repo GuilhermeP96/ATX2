@@ -1,4 +1,5 @@
 <!-- Ligando as variáveis de cadastro com o banco-->
+
 <?php
 /*if((!isset ($_SESSION['systemUser']) == true) and (!isset ($_SESSION['senha']) == true))
 {
